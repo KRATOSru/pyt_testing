@@ -1,5 +1,5 @@
 a = 25
-b = 'python'
+b = "python"
 c = False
 
 d = 8
@@ -9,6 +9,3 @@ print(a)
 print(b)
 print(c)
 print(d + f)
-
-
-
